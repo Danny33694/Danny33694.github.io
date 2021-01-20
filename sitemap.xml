@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://YourHat.com/index.html</loc>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://YourHat.com/images/%E6%89%AD%E5%8B%952-crop-u274.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourHat.com/images/%E6%89%AD%E5%8B%95.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://YourHat.com/%E6%9C%AA%E5%91%BD%E5%90%8D-4.html</loc>
+    <lastmod>2021-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://YourHat.com/images/a0807004%20posterr-crop-u257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourHat.com/images/p_20200224_161344_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourHat.com/images/p_20200224_161825.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://YourHat.com/images/p_20200224_162108.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://YourHat.com/assets/a0807004-%E5%90%B3%E5%AD%9F%E7%91%8B.mp4</loc>
+    <lastmod>2020-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

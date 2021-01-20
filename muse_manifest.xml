@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YourHat.com" resolutions="1x" timestamp="1611130295237">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YourHat.com" resolutions="1x" timestamp="1611130711071">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="___-4.css" crc="109317032" ref="未命名-4"/>
@@ -37,7 +37,7 @@
       <caption webpage="未命名-4" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="未命名-4"/>
-    <file name="扭動2-crop-u274.jpg" crc="4064390640" seo="true" ref="index">
+    <file name="扭動2-crop-u274.jpg" crc="3920798690" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u636-4.png" crc="4007096965" ref="未命名-4"/>
@@ -45,6 +45,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3769312897" seo="true" mt="1611130280935" redirect="true"/>
+  <file name="index.html" crc="11236383" seo="true" mt="1611130699223" redirect="true"/>
   <file name="未命名-4.html" crc="4102230208" seo="true" mt="1611087774850" redirect="true"/>
 </manifest>
